@@ -1,0 +1,5 @@
+.vscode
+C++/Codeforces/*
+!C++/Codeforces/*.cpp
+C++/Programs/*
+!C++/Programs/*.cpp
